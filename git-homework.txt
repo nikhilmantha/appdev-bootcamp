@@ -4,4 +4,6 @@ What’s the difference between ‘git add <file>’, ‘git add .’, and ‘gi
 - git add <file> adds a single file to staging area, git add . adds all the files in the current path, and git add -A adds all files across the entire repository.
 What does git push do? What does git pull do?
 - git push publishes the local changes to the remote repository, git pull updates the local repository to match the remote one.
+“What’s the difference between fetch and pull?”
+- git fetch downloads the updates to your local repo but does not actually change the files. this lets you look at changes before implementing them locally. git pull combines fetch and merge and makes changes locally.
 
