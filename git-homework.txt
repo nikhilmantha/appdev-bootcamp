@@ -1,0 +1,2 @@
+What is the difference between Git and GitHub?
+- git is the commands and tools used while github is a cloud platform to host the remote repos.
