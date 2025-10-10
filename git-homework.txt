@@ -2,4 +2,6 @@ What is the difference between Git and GitHub?
 - git is the commands and tools used while github is a cloud platform to host the remote repos.
 What’s the difference between ‘git add <file>’, ‘git add .’, and ‘git add -A?
 - git add <file> adds a single file to staging area, git add . adds all the files in the current path, and git add -A adds all files across the entire repository.
+What does git push do? What does git pull do?
+- git push publishes the local changes to the remote repository, git pull updates the local repository to match the remote one.
 
