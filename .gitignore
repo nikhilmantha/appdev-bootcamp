@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.metadata_never_index
+.VolumeIcon.icns
+
+.vscode/
+
+*.tmp
+*.bak
+*.orig
